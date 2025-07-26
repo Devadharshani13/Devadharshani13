@@ -20,7 +20,8 @@
   A companion app to the safety chip that offers accessible controls, tracking features, and quick alerts for emergencies.
 
 - 🌾 **Smart Irrigation System** *(Ongoing)*  
-  Working under an **AICTE internship** on a cost-efficient, AI/ML-based irrigation recommendation system using weather and soil data to support sustainable agriculture.
+  Working in an **AICTE internship** on an **AI/ML-based Smart Irrigation** project to support sustainable agriculture using weather and soil data.
+
 
 ---
 
