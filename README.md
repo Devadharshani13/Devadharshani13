@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Devadharshani B
+## Hi,I'm Devadharshani B
 
 🎓 I'm a 2nd-year B.Tech Information Technology student at **Panimalar Engineering College**.  
 💡 Passionate about developing innovative tech solutions and gaining hands-on experience through real-world projects and internships.
