@@ -19,8 +19,8 @@
 - 📱 **SafePlus Mobile App**  
   A companion app to the safety chip that offers accessible controls, tracking features, and quick alerts for emergencies.
 
-- 🌾 **Smart Irrigation System** *(Ongoing)*  
-  Working in an **AICTE internship** on an **AI/ML-based Smart Irrigation** project to support sustainable agriculture using weather and soil data.
+- 🌾 **Smart Irrigation System**  
+  completed an **AICTE internship** on an **AI/ML-based Smart Irrigation** project to support sustainable agriculture using weather and soil data.
 
 
 ---
