@@ -1,45 +1,90 @@
-## Hi,I'm Devadharshani B
+# Hi, I’m an Information Technology Student & AI/ML Enthusiast
 
-🎓 I'm a 2nd-year B.Tech Information Technology student at **Panimalar Engineering College**.  
-💡 Passionate about developing innovative tech solutions and gaining hands-on experience through real-world projects and internships.
-
----
-
-### 👩‍💻 Technical Skills
-- **Languages**: Python, C, MySQL, Java *(currently learning)*
-- **Domains of Interest**: Artificial Intelligence, Machine Learning, Data Visualization, IoT
-- **Core Strengths**: Debugging, Clean Coding, Problem-Solving
+A highly motivated **2nd-year B.Tech Information Technology student** with a strong foundation in  
+**Programming, Data Structures, Algorithms, Artificial Intelligence, and Machine Learning**.  
+Passionate about building real-world solutions, contributing to innovative projects, and gaining hands-on industry experience through challenging internships.
 
 ---
 
-### 🚀 Projects
-- 🔐 **IoT-Powered Women Safety Chip**  
-  Developed a smart chip under the IoT domain aimed at enhancing women’s safety through real-time monitoring and alert systems.
-  
-- 📱 **SafePlus Mobile App**  
-  A companion app to the safety chip that offers accessible controls, tracking features, and quick alerts for emergencies.
+## Education
 
-- 🌾 **Smart Irrigation System**  
-  completed an **AICTE internship** on an **AI/ML-based Smart Irrigation** project to support sustainable agriculture using weather and soil data.
-
+**B.Tech in Information Technology**  
+Panimalar Engineering College, Chennai, Tamil Nadu  
+**CGPA:** 8.8 / 10  
+**Expected Graduation:** 2028  
 
 ---
 
-### 🌱 I'm Currently Learning
-- Core Java & Object-Oriented Programming  
-- Machine Learning Algorithms and Model Deployment  
-- Real-time Data Processing in IoT systems
+## Skills
+
+### Programming Languages  
+- C, Python, HTML, CSS, Java
+
+### Frameworks & Libraries  
+- NumPy, Pandas, Matplotlib, Streamlit, Tkinter, scikit-learn, joblib
+
+### Databases  
+- MySQL, SQLite
+
+### Developer Tools  
+- Git & GitHub, Google Colab, VS Code, Anaconda
+
+### Academic Coursework  
+- Data Structures, Object-Oriented Programming, DBMS
 
 ---
 
-### 🤝 I'm Looking to Collaborate On
-- AI/ML & IoT projects  
-- Social impact technology solutions  
-- Open-source contributions
+## Certifications
+
+- Getting Started with Artificial Intelligence – **IBM**  
+- Python, Data Structures & Algorithms – **Infosys Springboard**  
+- Masters in SQL – **WSCUBE Tech**  
+- Introduction to Git and GitHub – **Google**  
+- HTML & CSS Crash Course – **Scrimba**  
+- Database Management Systems – **NPTEL**
 
 ---
 
-📫 **Reach me at:**  
-📍 Chennai, India  
-✉️ devadharshai13@gmail.com 
+## Experience
 
+### AI & Machine Learning Intern  
+**Edunet Foundation | Remote**  
+**July 2025 – August 2025**
+
+- Built and deployed a **Smart Automated Irrigation System** using **Python, Streamlit, and Random Forest**, enabling real-time data-driven sprinkler control using sensor inputs.  
+- Implemented **multi-output prediction, data preprocessing, MinMax scaling, and model evaluation**, achieving an estimated **25–30% improvement in water-use efficiency**.  
+- Strengthened **independent problem-solving, analytical thinking, and end-to-end project deployment skills** through complete individual execution of the project.  
+🔗 *Project Link*
+
+---
+
+## Projects
+
+### ✅ Safe Plus App  
+Developed a **real-time women safety emergency alert web application** using **Django, browser-based geolocation, and Twilio API** for instant SOS communication with live location sharing to registered emergency contacts.  
+
+---
+
+### ✅ SkyGuard  
+Developed an **autonomous multi-drone defense simulation** using **AirSim and YOLOv8** for real-time intruder detection, tracking, and interception. Implemented **flight-path logging and visualization with Python** for mission analysis and performance evaluation.  
+
+---
+
+### ✅ Sudoku Game  
+Developed a **real-time interactive Sudoku puzzle game** using **C and the SDL2 graphics library**, featuring:
+- Dynamic GUI rendering  
+- Move validation  
+- Undo/Redo using stack operations  
+- Hint generation  
+- Auto-solve functionality  
+- Real-time timer and move tracking  
+---
+
+##  Achievements
+
+- Secured **17th position** among all participants at an **International Conference** conducted at Panimalar Engineering College for the project **“Safe Plus App.”**  
+- Selected among the **Top 60 teams** in an **Ideathon** for the innovative project **“IoT-Powered Women Safety Chip.”**
+
+---
+
+⭐ *Always open to collaboration, learning, and impactful projects in AI, ML, IoT, and Software Development.*
