@@ -6,15 +6,6 @@ Passionate about building real-world solutions, contributing to innovative proje
 
 ---
 
-## Education
-
-**B.Tech in Information Technology**  
-Panimalar Engineering College, Chennai, Tamil Nadu  
-**CGPA:** 8.8 / 10  
-**Expected Graduation:** 2028  
-
----
-
 ## Skills
 
 ### Programming Languages  
