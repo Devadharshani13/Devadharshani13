@@ -62,13 +62,11 @@ Panimalar Engineering College, Chennai, Tamil Nadu
 
 ### ✅ Safe Plus App  
 Developed a **real-time women safety emergency alert web application** using **Django, browser-based geolocation, and Twilio API** for instant SOS communication with live location sharing to registered emergency contacts.  
-🔗 *Project Link*
 
 ---
 
 ### ✅ SkyGuard  
 Developed an **autonomous multi-drone defense simulation** using **AirSim and YOLOv8** for real-time intruder detection, tracking, and interception. Implemented **flight-path logging and visualization with Python** for mission analysis and performance evaluation.  
-🔗 *Project Link*
 
 ---
 
@@ -80,7 +78,6 @@ Developed a **real-time interactive Sudoku puzzle game** using **C and the SDL2 
 - Hint generation  
 - Auto-solve functionality  
 - Real-time timer and move tracking  
-🔗 *Project Link*
 
 ---
 
