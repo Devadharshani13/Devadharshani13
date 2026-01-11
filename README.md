@@ -72,10 +72,16 @@ Developed a **real-time interactive Sudoku puzzle game** using **C and the SDL2 
 
 ---
 
+### ✅ MedFlow– AI-Powered OPD Prediction System
+Designed a **smart hospital scheduling platform** using Generative AI and Agentic AI to predict OPD patient loads in real time and recommend optimized visiting schedules. Implemented automated **AI workflows, secure authentication, and modern AI integrations** to enhance patient experience and operational efficiency.
+
+---
+
 ## Achievements
 
 - Secured **17th position** among all participants at an **International Conference** conducted at Panimalar Engineering College for the project **“Safe Plus App.”**  
 - Selected among the **Top 60 teams** in an **Ideathon** for the innovative project **“IoT-Powered Women Safety Chip.”**
+- **Best Paper Presentation Award** – AI for Defense Conference for the project **“Smart Stride Boot.”**
 
 ---
 
