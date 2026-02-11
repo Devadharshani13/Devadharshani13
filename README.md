@@ -45,8 +45,6 @@ Passionate about building real-world solutions, contributing to innovative proje
 - Built and deployed a **Smart Automated Irrigation System** using **Python, Streamlit, and Random Forest**, enabling real-time data-driven sprinkler control using sensor inputs.  
 - Implemented **multi-output prediction, data preprocessing, MinMax scaling, and model evaluation**, achieving an estimated **25–30% improvement in water-use efficiency**.  
 - Strengthened **independent problem-solving, analytical thinking, and end-to-end project deployment skills** through complete individual execution of the project.  
-🔗 *Project Link*
-
 ---
 
 ##  Projects
