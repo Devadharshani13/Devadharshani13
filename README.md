@@ -76,12 +76,21 @@ Developed a **real-time interactive Sudoku puzzle game** using **C and the SDL2 
 Designed a **smart hospital scheduling platform** using Generative AI and Agentic AI to predict OPD patient loads in real time and recommend optimized visiting schedules. Implemented automated **AI workflows, secure authentication, and modern AI integrations** to enhance patient experience and operational efficiency.
 
 ---
+# 🍽️ SmartPlate – Intelligent Food Redistribution Platform  
+### *Reducing Food Waste • Fighting Hunger • Empowering Communities*
 
+**SmartPlate** is a full-stack, AI-enabled food redistribution platform designed to connect **food donors**, **NGOs**, and **volunteers** in real time to reduce food waste and combat hunger.  
+
+The platform enables surplus food from restaurants, events, hotels, corporates, and households to be efficiently redirected to NGOs and shelters using **secure authentication**, **role-based dashboards**, **geolocation**, and **AI-driven urgency scoring**.
+
+> **Mission:** Transform surplus food into sustenance for those in need.
+---
 ## Achievements
 
 - Secured **17th position** among all participants at an **International Conference** conducted at Panimalar Engineering College for the project **“Safe Plus App.”**  
 - Selected among the **Top 60 teams** in an **Ideathon** for the innovative project **“IoT-Powered Women Safety Chip.”**
 - **Best Paper Presentation Award** – AI for Defense Conference for the project **“Smart Stride Boot.”**
+- Secured **"IdeaSpark: Reality Ready" award** at Innoclash’26 for **SmartPlate**, a scalable SDG-aligned platform for surplus food redistribution, developed during a **24-hour international hackathon**.
 
 ---
 
