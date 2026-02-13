@@ -46,6 +46,13 @@ Passionate about building real-world solutions, contributing to innovative proje
 - Implemented **multi-output prediction, data preprocessing, MinMax scaling, and model evaluation**, achieving an estimated **25–30% improvement in water-use efficiency**.  
 - Strengthened **independent problem-solving, analytical thinking, and end-to-end project deployment skills** through complete individual execution of the project.  
 ---
+### Applied AI Intern
+**CSRBOX | In association with AICTE & IBM SkillsBuild | Remote**
+**December 2025 – January 2026**
+
+- Developed a production-ready **AI healthcare web app** to predict OPD load, classify patient risk, and optimize scheduling using **Generative AI and Agentic AI workflows.**
+
+- Implemented JWT-based role authentication, predictive modeling, and real-time dashboards using React and cloud deployment, aligning with **UN SDG 3 – Good Health & Well-Being.**
 
 ##  Projects
 
@@ -92,4 +99,4 @@ The platform enables surplus food from restaurants, events, hotels, corporates, 
 
 ---
 
-⭐ *Always open to collaboration, learning, and impactful projects in AI, ML, IoT, and Software Development.*
+⭐ *Always open to collaboration, learning, and impactful projects in AI, ML, and Software Development.*
