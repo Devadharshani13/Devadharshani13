@@ -70,11 +70,11 @@ Developed a **real-time interactive Sudoku puzzle game** using **C and the SDL2 
 
 ---
 
-### ✅ MedFlow– AI-Powered OPD Prediction System
+### ✅  MedFlow– AI-Powered OPD Prediction System
 Designed a **smart hospital scheduling platform** using Generative AI and Agentic AI to predict OPD patient loads in real time and recommend optimized visiting schedules. Implemented automated **AI workflows, secure authentication, and modern AI integrations** to enhance patient experience and operational efficiency.
 
 ---
-# 🍽️ SmartPlate – Intelligent Food Redistribution Platform  
+### ✅ SmartPlate – Intelligent Food Redistribution Platform  
 ### *Reducing Food Waste • Fighting Hunger • Empowering Communities*
 
 **SmartPlate** is a full-stack, AI-enabled food redistribution platform designed to connect **food donors**, **NGOs**, and **volunteers** in real time to reduce food waste and combat hunger.  
