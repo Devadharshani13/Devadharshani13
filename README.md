@@ -55,10 +55,10 @@ Passionate about building real-world solutions, contributing to innovative proje
 - Implemented JWT-based role authentication, predictive modeling, and real-time dashboards using React and cloud deployment, aligning with **UN SDG 3 – Good Health & Well-Being.**
 
   ---
-  ### AI Intern
-  ***Bits N’ Bytes Cybersecurity Education | Remote**
-  **February 2026– Present**
-• Advanced RAG-Enabled Transformer System: Engineered an AI platform for natural language querying
+### AI Intern
+**Bits N’ Bytes Cybersecurity Education | Remote**
+**February 2026– Present**
+     - Advanced RAG-Enabled Transformer System: Engineered an AI platform for natural language querying
 of Excel data using semantic search and RAG, leveraging FastAPI, React, FAISS, and transformer embeddings
 for accurate retrieval and explainable insights, and designed a Retrieval-Augmented Generation pipeline to
 improve query accuracy and contextual responses while fulfilling project-specific requirements.
