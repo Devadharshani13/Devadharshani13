@@ -54,6 +54,17 @@ Passionate about building real-world solutions, contributing to innovative proje
 
 - Implemented JWT-based role authentication, predictive modeling, and real-time dashboards using React and cloud deployment, aligning with **UN SDG 3 – Good Health & Well-Being.**
 
+  ---
+  ### AI Intern
+  ***Bits N’ Bytes Cybersecurity Education | Remote**
+  **February 2026– Present**
+• Advanced RAG-Enabled Transformer System: Engineered an AI platform for natural language querying
+of Excel data using semantic search and RAG, leveraging FastAPI, React, FAISS, and transformer embeddings
+for accurate retrieval and explainable insights, and designed a Retrieval-Augmented Generation pipeline to
+improve query accuracy and contextual responses while fulfilling project-specific requirements.
+
+---
+
 ##  Projects
 
 ### ✅ Safe Plus App  
@@ -90,12 +101,23 @@ The platform enables surplus food from restaurants, events, hotels, corporates, 
 
 > **Mission:** Transform surplus food into sustenance for those in need.
 ---
+### ✅ Advanced RAG-Enabled Transformer Embedding System - Intelligent Knowledge Discovery from Excel Datasets
+### *AI-Powered Data Querying • Semantic Search • Explainable Insights*
+
+Advanced RAG-Enabled Transformer System is an AI-driven platform designed to enable users to interact with Excel datasets using natural language queries for intelligent data exploration.
+
+The system leverages Transformer-based embeddings, FAISS vector database, and a Retrieval-Augmented Generation (RAG) pipeline to retrieve relevant data and generate accurate, context-aware responses with explainable insights.
+
+Mission: Transform static spreadsheet data into an intelligent, conversational knowledge discovery system.
+
+---
 ## Achievements
 
 - Secured **17th position** among all participants at an **International Conference** conducted at Panimalar Engineering College for the project **“Safe Plus App.”**  
 - Selected among the **Top 60 teams** in an **Ideathon** for the innovative project **“IoT-Powered Women Safety Chip.”**
 - **Best Paper Presentation Award** – AI for Defense Conference for the project **“Smart Stride Boot.”**
 - Secured **"IdeaSpark: Reality Ready" award** at Innoclash’26 for **SmartPlate**, a scalable SDG-aligned platform for surplus food redistribution, developed during a **24-hour international hackathon**.
+-  Participated in **TNWISE 2026 Hackathon**; shortlisted among **Top 90** teams out of 500+
 
 ---
 
