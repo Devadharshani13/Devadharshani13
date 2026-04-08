@@ -58,7 +58,8 @@ Passionate about building real-world solutions, contributing to innovative proje
 ### AI Intern
 **Bits N’ Bytes Cybersecurity Education | Remote**
 **February 2026– Present**
-     - Advanced RAG-Enabled Transformer System: Engineered an AI platform for natural language querying
+
+- Advanced RAG-Enabled Transformer System: Engineered an AI platform for natural language querying
 of Excel data using semantic search and RAG, leveraging FastAPI, React, FAISS, and transformer embeddings
 for accurate retrieval and explainable insights, and designed a Retrieval-Augmented Generation pipeline to
 improve query accuracy and contextual responses while fulfilling project-specific requirements.
