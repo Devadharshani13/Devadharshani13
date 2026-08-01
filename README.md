@@ -1,6 +1,4 @@
----
-
-# Hi, I’m an Information Technology Student & AI/ML Enthusiast
+## Hi, I’m an Information Technology Student & AI/ML Enthusiast
 
 A highly motivated **3rd-year B.Tech Information Technology student** with a strong foundation in **Programming, Data Structures, Algorithms, Artificial Intelligence, and Machine Learning**. Passionate about building real-world solutions, contributing to innovative projects, and gaining hands-on industry experience through challenging internships.
 
