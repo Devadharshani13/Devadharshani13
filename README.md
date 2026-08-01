@@ -1,125 +1,162 @@
+---
+
 # Hi, I’m an Information Technology Student & AI/ML Enthusiast
 
-A highly motivated **2nd-year B.Tech Information Technology student** with a strong foundation in  
-**Programming, Data Structures, Algorithms, Artificial Intelligence, and Machine Learning**.  
-Passionate about building real-world solutions, contributing to innovative projects, and gaining hands-on industry experience through challenging internships.
+A highly motivated **3rd-year B.Tech Information Technology student** with a strong foundation in **Programming, Data Structures, Algorithms, Artificial Intelligence, and Machine Learning**. Passionate about building real-world solutions, contributing to innovative projects, and gaining hands-on industry experience through challenging internships.
 
 ---
 
 ## Skills
 
-### Programming Languages  
-- C, Python, HTML, CSS, Java
+### Programming Languages
 
-### Frameworks & Libraries  
-- NumPy, Pandas, Matplotlib, Streamlit, Tkinter, scikit-learn, joblib
+* C, Python, HTML, CSS, Java
 
-### Databases  
-- MySQL, SQLite
+### Frameworks & Libraries
 
-### Developer Tools  
-- Git & GitHub, Google Colab, VS Code, Anaconda
+* NumPy, Pandas, Matplotlib, Streamlit, Tkinter, scikit-learn, joblib
 
-### Academic Coursework  
-- Data Structures, Object-Oriented Programming, DBMS
+### Databases
+
+* MySQL, SQLite
+
+### Developer Tools
+
+* Git & GitHub, Google Colab, VS Code, Anaconda
+
+### Academic Coursework
+
+* Data Structures, Object-Oriented Programming, DBMS
 
 ---
 
 ## Certifications
 
-- Getting Started with Artificial Intelligence – **IBM**  
-- Python, Data Structures & Algorithms – **Infosys Springboard**  
-- Masters in SQL – **WSCUBE Tech**  
-- Introduction to Git and GitHub – **Google**  
-- HTML & CSS Crash Course – **Scrimba**  
-- Database Management Systems – **NPTEL**
+* Getting Started with Artificial Intelligence – **IBM**
+* Python, Data Structures & Algorithms – **Infosys Springboard**
+* Masters in SQL – **WSCUBE Tech**
+* Introduction to Git and GitHub – **Google**
+* HTML & CSS Crash Course – **Scrimba**
+* Database Management Systems – **NPTEL**
 
 ---
 
 ## Experience
 
-### AI & Machine Learning Intern  
-**Edunet Foundation | Remote**  
+### AI & Machine Learning Intern
+
+**Edunet Foundation | Remote**
 **July 2025 – August 2025**
 
-- Built and deployed a **Smart Automated Irrigation System** using **Python, Streamlit, and Random Forest**, enabling real-time data-driven sprinkler control using sensor inputs.  
-- Implemented **multi-output prediction, data preprocessing, MinMax scaling, and model evaluation**, achieving an estimated **25–30% improvement in water-use efficiency**.  
-- Strengthened **independent problem-solving, analytical thinking, and end-to-end project deployment skills** through complete individual execution of the project.  
+* Built and deployed a **Smart Automated Irrigation System** using **Python, Streamlit, and Random Forest**, enabling real-time data-driven sprinkler control using sensor inputs.
+* Implemented **multi-output prediction, data preprocessing, MinMax scaling, and model evaluation**, achieving an estimated **25–30% improvement in water-use efficiency**.
+* Strengthened **independent problem-solving, analytical thinking, and end-to-end project deployment skills** through complete individual execution of the project.
+
 ---
+
 ### Applied AI Intern
+
 **CSRBOX | In association with AICTE & IBM SkillsBuild | Remote**
 **December 2025 – January 2026**
 
-- Developed a production-ready **AI healthcare web app** to predict OPD load, classify patient risk, and optimize scheduling using **Generative AI and Agentic AI workflows.**
+* Developed a production-ready **AI healthcare web application** to predict OPD load, classify patient risk, and optimize scheduling using **Generative AI and Agentic AI workflows**.
+* Implemented JWT-based role authentication, predictive modeling, and real-time dashboards using React and cloud deployment, aligning with **UN SDG 3 – Good Health & Well-Being**.
 
-- Implemented JWT-based role authentication, predictive modeling, and real-time dashboards using React and cloud deployment, aligning with **UN SDG 3 – Good Health & Well-Being.**
+---
 
-  ---
 ### AI Intern
+
 **Bits N’ Bytes Cybersecurity Education | Remote**
-**February 2026– Present**
+**February 2026 – March 2026**
 
-- Advanced RAG-Enabled Transformer System: Engineered an AI platform for natural language querying
-of Excel data using semantic search and RAG, leveraging FastAPI, React, FAISS, and transformer embeddings
-for accurate retrieval and explainable insights, and designed a Retrieval-Augmented Generation pipeline to
-improve query accuracy and contextual responses while fulfilling project-specific requirements.
+* Engineered an **Advanced RAG-Enabled Transformer System** for natural language querying of Excel datasets using semantic search and Retrieval-Augmented Generation (RAG).
+* Leveraged **FastAPI, React, FAISS, and transformer embeddings** to deliver accurate retrieval, contextual responses, and explainable AI-powered insights.
 
 ---
 
-##  Projects
+## Projects
 
-### ✅ Safe Plus App  
-Developed a **real-time women safety emergency alert web application** using **Django, browser-based geolocation, and Twilio API** for instant SOS communication with live location sharing to registered emergency contacts.  
+### ✅ Safe Plus App
 
----
-
-### ✅ SkyGuard  
-Developed an **autonomous multi-drone defense simulation** using **AirSim and YOLOv8** for real-time intruder detection, tracking, and interception. Implemented **flight-path logging and visualization with Python** for mission analysis and performance evaluation.  
+Developed a **real-time women safety emergency alert web application** using **Django, browser-based geolocation, and Twilio API** for instant SOS communication with live location sharing to registered emergency contacts.
 
 ---
 
-### ✅ Sudoku Game  
+### ✅ SkyGuard
+
+Developed an **autonomous multi-drone defense simulation** using **AirSim and YOLOv8** for real-time intruder detection, tracking, and interception. Implemented **flight-path logging and visualization with Python** for mission analysis and performance evaluation.
+
+---
+
+### ✅ Sudoku Game
+
 Developed a **real-time interactive Sudoku puzzle game** using **C and the SDL2 graphics library**, featuring:
-- Dynamic GUI rendering  
-- Move validation  
-- Undo/Redo using stack operations  
-- Hint generation  
-- Auto-solve functionality  
-- Real-time timer and move tracking  
+
+* Dynamic GUI rendering
+* Move validation
+* Undo/Redo using stack operations
+* Hint generation
+* Auto-solve functionality
+* Real-time timer and move tracking
 
 ---
 
-### ✅  MedFlow– AI-Powered OPD Prediction System
-Designed a **smart hospital scheduling platform** using Generative AI and Agentic AI to predict OPD patient loads in real time and recommend optimized visiting schedules. Implemented automated **AI workflows, secure authentication, and modern AI integrations** to enhance patient experience and operational efficiency.
+### ✅ MedFlow – AI-Powered OPD Prediction System
+
+Designed a **smart hospital scheduling platform** using **Generative AI and Agentic AI** to predict OPD patient loads in real time and recommend optimized visiting schedules. Implemented automated AI workflows, secure authentication, and modern AI integrations to enhance patient experience and operational efficiency.
 
 ---
-### ✅ SmartPlate – Intelligent Food Redistribution Platform  
+
+### ✅ SmartPlate – Intelligent Food Redistribution Platform
+
 ### *Reducing Food Waste • Fighting Hunger • Empowering Communities*
 
-**SmartPlate** is a full-stack, AI-enabled food redistribution platform designed to connect **food donors**, **NGOs**, and **volunteers** in real time to reduce food waste and combat hunger.  
+**SmartPlate** is a full-stack, AI-enabled food redistribution platform designed to connect **food donors, NGOs, and volunteers** in real time to reduce food waste and combat hunger.
 
-The platform enables surplus food from restaurants, events, hotels, corporates, and households to be efficiently redirected to NGOs and shelters using **secure authentication**, **role-based dashboards**, **geolocation**, and **AI-driven urgency scoring**.
+The platform enables surplus food from restaurants, events, hotels, corporates, and households to be efficiently redirected using **secure authentication, role-based dashboards, geolocation, and AI-driven urgency scoring**.
 
 > **Mission:** Transform surplus food into sustenance for those in need.
+
 ---
-### ✅ Advanced RAG-Enabled Transformer Embedding System - Intelligent Knowledge Discovery from Excel Datasets
+
+### ✅ Advanced RAG-Enabled Transformer Embedding System – Intelligent Knowledge Discovery from Excel Datasets
+
 ### *AI-Powered Data Querying • Semantic Search • Explainable Insights*
 
-Advanced RAG-Enabled Transformer System is an AI-driven platform designed to enable users to interact with Excel datasets using natural language queries for intelligent data exploration.
+An AI-driven platform that enables users to interact with Excel datasets using natural language queries for intelligent data exploration.
 
-The system leverages Transformer-based embeddings, FAISS vector database, and a Retrieval-Augmented Generation (RAG) pipeline to retrieve relevant data and generate accurate, context-aware responses with explainable insights.
+The system leverages **Transformer-based embeddings, FAISS vector database, and a Retrieval-Augmented Generation (RAG) pipeline** to retrieve relevant data and generate accurate, context-aware responses with explainable insights.
 
-Mission: Transform static spreadsheet data into an intelligent, conversational knowledge discovery system.
+> **Mission:** Transform static spreadsheet data into an intelligent, conversational knowledge discovery system.
 
 ---
+
+### ✅ Multi-Document RAG Chatbot – API Cloud Deployment
+
+A production-ready **Multi-Document Retrieval-Augmented Generation (RAG) chatbot** designed to process and query multiple documents efficiently using **Python, vector embeddings, and LLM-based retrieval pipelines**. The system is deployed with **API integration and cloud infrastructure**, enabling scalable and real-time document-based question answering.
+
+---
+
+### ✅ Self-Healing Mechanism in Automation
+
+An advanced **TypeScript-based automation system** implementing **self-healing capabilities** to automatically detect, recover, and adapt from runtime failures. The system enhances reliability in automated workflows by dynamically handling errors, retry logic, and system recovery without manual intervention.
+
+---
+
+### ✅ Multi-Document RAG Chatbot – Local Deployment (Without API)
+
+A lightweight **local RAG-based chatbot system** built using **Python**, capable of processing multiple documents offline without external API dependencies. It uses **local embeddings and retrieval pipelines** to enable secure, private, and efficient document querying on local machines.
+
+---
+
 ## Achievements
 
-- Secured **17th position** among all participants at an **International Conference** conducted at Panimalar Engineering College for the project **“Safe Plus App.”**  
-- Selected among the **Top 60 teams** in an **Ideathon** for the innovative project **“IoT-Powered Women Safety Chip.”**
-- **Best Paper Presentation Award** – AI for Defense Conference for the project **“Smart Stride Boot.”**
-- Secured **"IdeaSpark: Reality Ready" award** at Innoclash’26 for **SmartPlate**, a scalable SDG-aligned platform for surplus food redistribution, developed during a **24-hour international hackathon**.
--  Participated in **TNWISE 2026 Hackathon**; shortlisted among **Top 90** teams out of 500+
+* Secured **17th position** among all participants at an **International Conference** conducted at Panimalar Engineering College for the project **"Safe Plus App."**
+* Selected among the **Top 60 teams** in an **Ideathon** for the innovative project **"IoT-Powered Women Safety Chip."**
+* Received the **Best Paper Presentation Award** at the **AI for Defense Conference** for the project **"Smart Stride Boot."**
+* Secured the **"IdeaSpark: Reality Ready" Award** at **Innoclash'26** for **SmartPlate**, a scalable SDG-aligned platform for surplus food redistribution, developed during a **24-hour international hackathon**.
+* Shortlisted among the **Top 90 teams** out of **500+ participants** in the **TNWISE 2026 Hackathon**.
 
 ---
 
-⭐ *Always open to collaboration, learning, and impactful projects in AI, ML, and Software Development.*
+⭐ *Always open to collaboration, continuous learning, and impactful opportunities in Artificial Intelligence, Machine Learning, Cybersecurity, and Software Development.*
